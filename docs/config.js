@@ -8,4 +8,6 @@ window.CVIRTUAL_CONFIG = {
   assetsBaseUrl: "/cvirtual/assets/",
   // Foto y video se almacenan directamente en buckets privados de Supabase Storage.
   // Ejecuta primero el parche SQL 002_supabase_storage_media.sql.
+  // Escribe aquí tu número Yape receptor, por ejemplo: "999999999". No agregues un código de operación.
+  yapeRecipientNumber: "",
 };
